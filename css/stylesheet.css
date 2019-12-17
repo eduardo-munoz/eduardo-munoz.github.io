@@ -3,7 +3,6 @@ body {
   color: #fafafa;
   font-family: 'Roboto', sans-serif;
   margin-left: 10%;
-  margin-top: 10%;
 }
 
 .name h1 {
@@ -11,6 +10,7 @@ body {
   font-family: 'Roboto Mono', monospace;
   font-weight: 500;
   margin: 0px;
+  margin-top: 10%;
 }
 
 .title h1 {
@@ -19,6 +19,10 @@ body {
   font-weight: 500;
   margin: 0px;
   color: #68737E;
+}
+
+.back-button {
+  
 }
 
 h2 {
