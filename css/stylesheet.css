@@ -22,7 +22,7 @@ body {
 }
 
 .back-button {
-  
+
 }
 
 h2 {
@@ -58,7 +58,6 @@ h2 {
   border: 2px solid #0087FF;
   color: #fafafa;
   cursor: pointer;
-  font-weight: 700;
 }
 
 .button-row {
