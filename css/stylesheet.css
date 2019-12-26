@@ -8,7 +8,7 @@ body {
 .name h1 {
   font-size: 64px;
   font-family: 'Roboto Mono', monospace;
-  font-weight: 500;
+  font-weight: 400;
   margin: 0px;
   margin-top: 10%;
 }
@@ -16,13 +16,29 @@ body {
 .title h1 {
   font-size: 64px;
   font-family: 'Roboto Mono', monospace;
-  font-weight: 500;
+  font-weight: 400;
   margin: 0px;
   color: #68737E;
 }
 
 .back-button {
+  background-color: #1A1F23;
+  border: 2px solid #2F363D;
+  color: #68737E;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 8px;
+  border-radius: 2px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
 
+.back-button:hover {
+  background-color: #0087FF;
+  border: 2px solid #0087FF;
+  color: #fafafa;
+  cursor: pointer;
 }
 
 h2 {
@@ -64,10 +80,54 @@ h2 {
   margin-top: 64px;
 }
 
-.job-title {
+.job-title h3 {
   font-family: 'Roboto', sans-serif;
   font-size: 24px;
   color: #fafafa;
-  font-weight: 500;
+  font-weight: 700;
   margin-top: 48px;
+  margin-bottom: 0px;
+}
+
+.company h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 8px;
+  margin-bottom: 0px;
+  color: #68737E;
+}
+  span {
+    color: #0087FF;
+    font-family: 'Roboto', sans-serif;
+  }
+
+.product h3 {
+  margin-top: 8px;
+  color: #68737E;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.work-bullets{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: rgba(255, 255, 255, .80);
+  font-weight: 400;
+  line-height: 24px;
+  margin-right: 100px;
+}
+
+li {
+  margin-top: 18px;
+}
+
+a {
+  color: #0087FF;
+  text-decoration: none;
+}
+
+hr {
+  border: 2px solid #2F363D;
 }
