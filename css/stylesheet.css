@@ -3,6 +3,7 @@ body {
   color: #fafafa;
   font-family: 'Roboto', sans-serif;
   margin-left: 10%;
+  margin-right: 10%;
 }
 
 .name h1 {
@@ -21,7 +22,7 @@ body {
   color: #68737E;
 }
 
-.back-button {
+.small-button {
   background-color: #1A1F23;
   border: 2px solid #2F363D;
   color: #68737E;
@@ -32,9 +33,10 @@ body {
   border-radius: 2px;
   margin-top: 16px;
   margin-bottom: 16px;
+  margin-right: 8px;
 }
 
-.back-button:hover {
+.small-button:hover {
   background-color: #0087FF;
   border: 2px solid #0087FF;
   color: #fafafa;
@@ -57,7 +59,7 @@ h2 {
   margin-top: 24px;
 }
 
-.home-button {
+.big-button {
   background-color: #1A1F23;
   border: 2px solid #2F363D;
   color: #68737E;
@@ -69,7 +71,7 @@ h2 {
   margin-right: 16px;
 }
 
-.home-button:hover {
+.big-button:hover {
   background-color: #0087FF;
   border: 2px solid #0087FF;
   color: #fafafa;
@@ -80,10 +82,10 @@ h2 {
   margin-top: 64px;
 }
 
-.job-title h3 {
+.heading-title h3 {
   font-family: 'Roboto', sans-serif;
-  font-size: 24px;
-  color: #fafafa;
+  font-size: 36px;
+  color: rgba(255, 255, 255, .80);
   font-weight: 700;
   margin-top: 48px;
   margin-bottom: 0px;
@@ -99,24 +101,23 @@ h2 {
 }
   span {
     color: #0087FF;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
   }
 
 .product h3 {
   margin-top: 8px;
-  color: #68737E;
+  color: rgba(255, 255, 255, .25);
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 18px;
 }
 
-.work-bullets{
+.bullets{
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
-  color: rgba(255, 255, 255, .80);
+  color: rgba(255, 255, 255, .60);
   font-weight: 400;
   line-height: 24px;
-  margin-right: 100px;
 }
 
 li {
@@ -129,5 +130,5 @@ a {
 }
 
 hr {
-  border: 2px solid #2F363D;
+  border: 1px solid rgba(255, 255, 255, .25);;
 }

@@ -1,8 +1,7 @@
 # Work Experience
 
 ## MetaXdata, Inc.
-### Senior Technical Product Manager
-_August 2019 – Present_
+### Senior Technical Product Manager (_August 2019 – Present_)
 *Product: MetaWiki (a wiki outlining the internet's top websites and their flags for audited, non-compliant leaks of user data)*
   - While referencing the established database schema, design the MetaWiki's UI in order to intuitively display the internet's complex schema of websites and data flow
   - As a technical product manager, utilize Amazon Mechanical Turks's API to deploy and manage 1,000+ global tasks for data collection purposes in order to populate the MetaWiki with data
