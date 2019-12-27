@@ -15,11 +15,12 @@ body {
 }
 
 .title h1 {
-  font-size: 64px;
+  font-size: 24px;
   font-family: 'Roboto Mono', monospace;
   font-weight: 400;
   margin: 0px;
   color: #68737E;
+  text-transform: uppercase;
 }
 
 .small-button {
@@ -87,7 +88,7 @@ h2 {
   font-size: 36px;
   color: rgba(255, 255, 255, .80);
   font-weight: 700;
-  margin-top: 48px;
+  margin-top: 24px;
   margin-bottom: 0px;
 }
 
