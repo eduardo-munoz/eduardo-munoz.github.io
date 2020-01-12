@@ -113,6 +113,22 @@ h2 {
   font-size: 18px;
 }
 
+.index-footer h3 {
+  margin-top: 48px;
+  color: rgba(255, 255, 255, .25);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.footer h3 {
+  margin-top: 12px;
+  color: rgba(255, 255, 255, .25);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
 .bullets{
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
